@@ -1,4 +1,4 @@
-# pyLang
+# python-lang
 A simple library for building multilingual applications in Python
 ## Installation
 Copy `lang.py` to `PythonInstallationDirectory\Lib` (e.g. `C:\Program Files\Python37\Lib`)
