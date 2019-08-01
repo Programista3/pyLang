@@ -1,4 +1,4 @@
-import lang
+import python_lang as lang
 _ = lang.get
 
 lang.add('locales/pl.xml')

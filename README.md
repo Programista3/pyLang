@@ -1,12 +1,16 @@
 # python-lang
 A simple library for building multilingual applications in Python
 ## Installation
-Copy `lang.py` to `PythonInstallationDirectory\Lib` (e.g. `C:\Program Files\Python37\Lib`)
+### Using `pip`
+`pip install python-lang`
+### From the source
+- Clone the repo `git clone https://github.com/Programista3/python-lang.git`
+- Run `python setup.py install`
 ## Usage
 #### `.py` file
 Add pyLang to your project
 ```python
-import lang
+import python_lang as lang
 _ = lang.get
 ```
 Add language files (you can specify the language symbol as the second parameter)
